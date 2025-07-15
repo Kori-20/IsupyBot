@@ -184,7 +184,7 @@ async def monitor_server_status():
                 
                 # Create the embed for online status
                 embed = discord.Embed(
-                    title="🟢 Server Status - Online",
+                    title="🟢 Online",
                     color=0x00ff00,
                     description=f"**IP: {MC_IP}**\n**Port: {PORT}**"
                 )
