@@ -1,4 +1,4 @@
 ## Do not commit application token
 /.env
-/isupy.log
+/isupy_discord.log
 /config.txt
