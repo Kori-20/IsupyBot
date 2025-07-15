@@ -1,0 +1,4 @@
+## Do not commit application token
+/.env
+/isupy.log
+/config.txt
