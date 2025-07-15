@@ -23,7 +23,7 @@ ex.: ``ID99``
 
 # Create the server invite link 
 - set ``ID99`` to your copied id in ``client_id=`` -> https://discord.com/oauth2/authorize?client_id=ID99&permissions=75776&integration_type=0&scope=bot
-    -   the 'permissions=75776' contains the following:
+    -   the ``permissions=75776`` contains the following:
 - Send Messages (to .... be able to send the message)
 - Manage Messages (to be able to edit it's own message and pin it)
 - Read Message History (to be able to search for it's own previous messages)
