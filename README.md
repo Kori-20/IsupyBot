@@ -28,6 +28,10 @@ ex.: ``ID99``
 - Manage Messages (to be able to edit it's own message and pin it)
 - Read Message History (to be able to search for it's own previous messages)
 
+# Remove exemples keywords
+- rename ``exemple.env`` **->** ``.env``
+- rename ``config.exemple.txt`` **->** ``config.txt`` 
+
 # Initiate the bot
 - run ``./main.py`` or ``python3 main.py``
 
