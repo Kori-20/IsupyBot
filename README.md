@@ -33,7 +33,7 @@ ex.: ``ID99``
 - rename ``config.exemple.txt`` **->** ``config.txt`` 
 
 # Initiate the bot
-- run ``./main.py`` or ``python3 main.py``
+- run ``./isupy.py`` or ``python3 isupy.py``
 
 
 # What does the bot do?
